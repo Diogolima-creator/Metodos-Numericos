@@ -1,0 +1,1 @@
+python3 "/home/dlncsm/Área de Trabalho/Projetos/Metodos-Numericos/main.py"

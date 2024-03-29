@@ -1,6 +1,7 @@
 from sympy import sympify, symbols
 import time
 import os
+
 def MethodBissec():
     while True:
         interval_positive, interval_negative = map(float, input('Coloque o intervalo (Ex: 0.3 5.2 | 1.5 0.2):').split())
